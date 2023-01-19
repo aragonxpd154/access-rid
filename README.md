@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Access-RID" src="https://github.com/aragonxpd154/access-rid/blob/master/images/ACCESS-RID_free-file.png"/>
+<img alt="Access-RID" src="https://raw.githubusercontent.com/aragonxpd154/access-rid/main/images/ACCESS-RID_free-file.png"/>
 <br>
 </h1>
 
@@ -28,7 +28,7 @@ This is a prototype project made to run on Arduino Uno together with an Ethernet
 </p>
 
 <p align="center">
-<img alt="Demo on Photo" src="https://github.com/aragonxpd154/access-rid/blob/master/images/5d114e8e1c.gif">
+<img alt="Demo on Photo" src="https://github.com/aragonxpd154/access-rid/blob/main/images/5d114e8e1c.gif">
 </p>
 
 ## :rocket: Technologies
@@ -65,7 +65,7 @@ $ git clone https://github.com/aragonxpd154/access-rid
 You can open the script file with the Arduino IDE and perform the recording through it. The file_arduino.ino is located at the root of this repository
 
 <p align="center">
-<img alt="Arduino IDE" src="https://github.com/aragonxpd154/access-rid/blob/master/images/arduino_ide.png" width="520" heigh="405" />
+<img alt="Arduino IDE" src="https://github.com/aragonxpd154/access-rid/blob/main/images/arduino_ide.png" width="520" heigh="405" />
 </p>
 
 ```bash
