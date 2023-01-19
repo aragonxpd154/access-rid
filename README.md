@@ -86,7 +86,7 @@ static uint8_t ip[] = { 192, 168, 200, 150 };
 
 ## 💻 Development Status
 
-The project was completed ^^. Below are some images of the project.
+The project was completed ^^. Below are some images of the project. You can access a preview of the project [here](https://aragonxpd154.github.io/access-rid/)
 
 <p align="center">
 <img alt="Demo on Photo 1" src="https://i.imgur.com/awKWLSP.png">
